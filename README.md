@@ -13,6 +13,11 @@ My first repository
 - Lucas Sinclair
 - Nancy Wheeler
 - Jonathan Byers
+- Karen Wheeler
+- Will Byers
+- Steve Harrington
+- Max Mayfield
+- Billy Hargrove
 
   **Movie Merch**
   [Stranger Things](https://strangerthings-store.com/)
